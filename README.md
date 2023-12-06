@@ -2,6 +2,10 @@
 ## Olá! Eu sou Beatriz de Oliveira 
 
 
+<h3>🌍 Amante de Idiomas<p></p>
+🎓 Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará</h3>
+
+
 [![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOlit&show_icons=true&theme=radical)](https://github.com/BiaOlit/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOlit&theme=radical)](https://github.com/BiaOlit/github-readme-stats)
 

@@ -10,12 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOlit&theme=radical)](https://github.com/BiaOlit/github-readme-stats)
 
 ## Contatos
-<a href="https://www.instagram.com/bia.olit/?next=%2F" target = "_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-/></a>
 <a href="beatrizolit@gmail.com" target = "_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 /></a>
-<a href="https://www.wa.me/5585999056274" target = "_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-/></a>
+
 
 ## Estudo:
 <a href="https://github.com/BiaOlit/github-readme-stats">

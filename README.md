@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Beatriz de Oliveira 
+## Olá! Eu sou a Beatriz 😊
 
 
 <h3>🌍 Amante de Idiomas<p></p>
@@ -14,16 +14,24 @@
 /></a>
 
 
-## Estudo:
-<a href="https://github.com/BiaOlit/github-readme-stats">
-  <img height=30 align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/BiaOlit/github-readme-stats">
-  <img height=30 align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</a>
-<a href="https://github.com/BiaOlit/github-readme-stats">
-  <img height=30 align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0d1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
+
+### IDE's:
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0D1117.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=purple)
+![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=orange)
+![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=blue)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BiaOlit}/count.svg" /></p> 
+<br>
+</div>
+
 
 <!---
 BiaOlit/BiaOlit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

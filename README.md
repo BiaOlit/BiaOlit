@@ -26,11 +26,7 @@
 ![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=orange)
 ![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=blue)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BiaOlit}/count.svg" /></p> 
-<br>
-</div>
+
 
 
 <!---
